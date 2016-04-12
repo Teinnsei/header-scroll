@@ -1,0 +1,19 @@
+{
+  "name": "header-scroll",
+  "authors": [
+    "Alexander Galagutskiy <alexander.galagutskiy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [],
+  "license": "Apache2",
+  "homepage": "https://github.com/Teinnsei/header-scroll",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
