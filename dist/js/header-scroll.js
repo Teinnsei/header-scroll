@@ -45,6 +45,14 @@
                 });
             }.bind(this));
         }
+        if(opts.enableClickLinkScroll) {
+            this.find(opts.linkTag).on('click', function() {
+                var index = $(this).index();
+                $('html, body').animate({
+                    scrollTop: $(opts.section).eq(index).offset().top
+                }, opts.durationScroll);
+            });
+        }
     };
     $.fn.headerScroll.defaults = {
         enableFixedHeader: true,
@@ -53,6 +61,8 @@
         display: "block",
         enableActiveLink: true,
         activeLinkClass: 'active',
-        linkTag: 'li'
+        linkTag: 'li',
+        enableClickLinkScroll: true,
+        durationScroll: 500
     };
 })(jQuery);
