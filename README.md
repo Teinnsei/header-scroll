@@ -20,7 +20,7 @@ Enable plugin
     $(yourHeaderSelection).headerScroll();
 ## Without bower
 
- 1. [Download](https://github.com/peachananr/onepage-scroll/archive/master.zip) zip project.
+ 1. [Download](https://github.com/Teinnsei/header-scroll/archive/master.zip) zip project.
  2. Unzip project.
  3. Copy header-scroll.min.js from dist/js folder to your assets folder 
  4. Include plugin in your html document with script tag.
