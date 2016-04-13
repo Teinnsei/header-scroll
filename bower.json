@@ -10,7 +10,7 @@
   "dependencies": {
     "jquery": ">=1.10.2"
   },
-  "license": "Apache2",
+  "license": "MIT",
   "homepage": "https://github.com/Teinnsei/header-scroll",
   "ignore": [
     "**/.*",
