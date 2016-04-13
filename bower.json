@@ -4,7 +4,7 @@
     "Alexander Galagutskiy <alexander.galagutskiy@gmail.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "./dist/js/header-scroll.min.js",
   "moduleType": [],
   "keywords": [],
   "dependencies": {
@@ -17,6 +17,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "examples",
+    "src",
+    ".gitignore"
   ]
 }
