@@ -12,5 +12,5 @@ Examples is available in the example folder. Demo page available by [this link](
 
 [ico-license]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 
-[ico-bower]: https://img.shields.io/bower/v/header-scroll.svg?maxAge=2592000
+[ico-bower]: https://img.shields.io/bower/v/header-scroll.svg
 [link-bower]: https://github.com/Teinnsei/header-scroll
