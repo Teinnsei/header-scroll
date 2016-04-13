@@ -3,6 +3,7 @@
   "authors": [
     "Alexander Galagutskiy <alexander.galagutskiy@gmail.com>"
   ],
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/js/header-scroll.min.js",
   "moduleType": [],
